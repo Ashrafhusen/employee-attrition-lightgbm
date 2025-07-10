@@ -5,4 +5,3 @@ def test_model_training():
     train_model()
     assert os.path.exists("models/model.pkl")
 
-    
