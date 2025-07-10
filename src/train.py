@@ -1,7 +1,7 @@
 import joblib 
 import lightgbm as lgb 
 from sklearn.model_selection import train_test_split
-from src.reprocess import load_data 
+from src.preprocess import load_data 
 import numpy as np
 
 def train_model():
