@@ -41,3 +41,5 @@ This project builds a machine learning pipeline to predict employee attrition us
 - **F1 Score:** 45.16%
 
 **Confusion Matrix**:
+[[198 57]
+[ 11 28]]
